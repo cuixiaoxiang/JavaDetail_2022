@@ -1,4 +1,4 @@
-package com.cyp.lambdaBase;
+package com.cyp.lambdaBase.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
